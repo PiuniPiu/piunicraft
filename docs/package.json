@@ -1,0 +1,19 @@
+{
+  "name": "aoiimipmc",
+  "version": "0.0.1",
+  "description": "Página web utilizada como guía para el servidor de Minecraft de AoiiVT",
+  "main": "index.js",
+  "authors": {
+    "name": "Alex",
+    "email": "alex@alexdevuwu.tk"
+  },
+  "repository": "https://github.com/AlexDeveloperUwU/aoiimipmc//AoiiMipMC",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

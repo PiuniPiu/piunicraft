@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-vuepress-site": "^0.4.2-beta"
+  }
+}
