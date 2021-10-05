@@ -16,16 +16,16 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Modos de Juego',
+        link: '/gamemodes/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Plugins',
+        link: '/plugins/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Datapacks',
+        link: '/datapacks/'
       }
     ],
     sidebar: {
@@ -41,5 +41,6 @@ module.exports = {
       ],
     }
   },
+  theme: 'antdocs'
 
 }
