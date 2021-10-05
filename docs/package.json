@@ -1,6 +1,6 @@
 {
   "name": "aoiimipmc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Página web utilizada como guía para el servidor de Minecraft de AoiiVT",
   "main": "index.js",
   "authors": {
