@@ -2,6 +2,7 @@ const { description } = require('../../package')
 
 module.exports = {
   title: 'AoiiMipMC',
+  base: '/aoiimipmc/',
   description: description,
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
