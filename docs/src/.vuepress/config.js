@@ -17,6 +17,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Normas',
+        link: '/normas/'
+      },
+      {
         text: 'Modos de Juego',
         link: '/gamemodes/',
       },
@@ -27,7 +31,7 @@ module.exports = {
       {
         text: 'Datapacks',
         link: '/datapacks/'
-      }
+      } 
     ],
     sidebar: {
       '/guide/': [
