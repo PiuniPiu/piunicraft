@@ -1,7 +1,5 @@
-# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
-name: Node.js CI
+#By AlexDeveloperUwU
+name: AoiiMipMC GH-Pages Publisher
 
 on:
   push:
@@ -11,16 +9,14 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
         node-version: [16.11.1]
         
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Build and publish
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
