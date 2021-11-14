@@ -25,10 +25,6 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.4.1
         
-      #CD to Docs Dir
-      - name: cd to docs dir
-        run: cd ./docs
-        
       # Build the web
       - name: Build
         run: npm run build
