@@ -15,14 +15,17 @@ jobs:
         node-version: [16.11.1]
         
     steps:
-    - uses: actions/checkout@v2
-    - name: Build and publish
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Instalador de Node.js 16.11.1
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm ci
-    - run: npm run build
+    - name: Instalador de paquetes
+      run: npm ci
+    - name: Crea la web a partir de los archivos Markdown
+      run: npm run build
     - run: cd ./src/.vuepress/
     - uses: JamesIves/github-pages-deploy-action@4.1.5
       with:
