@@ -4,118 +4,70 @@
 ---
 [Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
 
-## AFKPlus
+## AutoCraft
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de AutoCraft](./autocraft.md)
 
-## AFKPlus
+## AutoReplant
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de AutoReplant](./autoreplant.md)
 
-## AFKPlus
+## BedHome
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de BedHome](./bedhome.md)
 
-## AFKPlus
+## BlockProt
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de BlockProt](./blockprot.md)
 
-## AFKPlus
+## CoreProtect
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de CoreProtect](./coreprotect.md)
 
-## AFKPlus
+## DeadChest
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de DeadChest](./deadchest.md)
 
-## AFKPlus
+## ItemRemover
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de ItemRemover](./itemremover.md)
 
-## AFKPlus
+## JoinLeaveMessages
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de JoinLeaveMessages](./jl.md)
 
-## AFKPlus
+## Light
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de Light](./light.md)
 
-## AFKPlus
+## Minimap
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de Minimap](./minimap.md)
 
-## AFKPlus
+## Multiverse
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de Multiverse](./multiverse.md)
 
-## AFKPlus
+## NoteblockEditor
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de NoteblockEditor](./noteblock.md)
 
-## AFKPlus
+## Serverlist
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de Serverlist](./serverlist.md)
 
-## AFKPlus
+## SkinRestorer
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de SkinRestorer](./skin.md)
 
-## AFKPlus
+## SLogin
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de SLogin](./slogin.md)
 
-## AFKPlus
+## Trash
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de Trash](./trash.md)
 
-## AFKPlus
+## XPB
 ---
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
-
-## AFKPlus
----
-[Pulsa aquí para acceder a la sección de AFKPlus](./afk.md)
+[Pulsa aquí para acceder a la sección de XPB](./xpb.md)
