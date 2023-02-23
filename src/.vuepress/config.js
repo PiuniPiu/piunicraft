@@ -17,21 +17,17 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
+        text: 'Inicio',
+        link: '/'
+      },
+      {
         text: 'Normas',
         link: '/normas/'
       },
       {
-        text: 'Modos de Juego',
-        link: '/gamemodes/',
-      },
-      {
-        text: 'Plugins',
-        link: '/plugins/'
-      },
-      {
-        text: 'Datapacks',
-        link: '/datapacks/'
-      } 
+        text: 'Modificaciones',
+        link: '/mods/',
+      }
     ],
     sidebar: {
       '/guide/': [
