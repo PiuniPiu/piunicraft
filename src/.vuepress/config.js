@@ -29,18 +29,6 @@ module.exports = {
         link: '/mods/',
       }
     ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
-          ]
-        }
-      ],
-    }
   },
   theme: 'antdocs'
 
