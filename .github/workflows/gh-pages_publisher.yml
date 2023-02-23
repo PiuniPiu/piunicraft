@@ -1,5 +1,5 @@
 #By AlexDeveloperUwU
-name: AoiiMipMC GH-Pages Publisher
+name: Github Pages Publisher for VuePress
 
 on:
   push:
@@ -15,19 +15,21 @@ jobs:
         node-version: [16.11.1]
         
     steps:
-    - name: Checkout
+    - name: Checkout del repositorio
       uses: actions/checkout@v2
-    - name: Instalador de Node.js 16.11.1
+    - name: Instalación de Node.js
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - name: Instalador de paquetes
+    - name: Intalación de paquetes
       run: npm ci
-    - name: Crea la web a partir de los archivos Markdown
+    - name: Generación de los archivos estáticos HTML
       run: npm run build
-    - run: cd ./src/.vuepress/
-    - uses: JamesIves/github-pages-deploy-action@4.1.5
+    - name: CD al directorio del resultado 
+      run: cd ./src/.vuepress/
+    - name: Publicación de la página en Github Pages
+      uses: JamesIves/github-pages-deploy-action@4.1.5
       with:
           branch: gh-pages
           folder: ./src/.vuepress/dist
