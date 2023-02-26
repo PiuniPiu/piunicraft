@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/PiuniPiu/uwuland-docs#readme",
   "dependencies": {
-    "vuepress": "^1.9.8",
+    "vuepress": "^1.9.9",
     "vuepress-theme-antdocs": "^1.4.6"
   }
 }
