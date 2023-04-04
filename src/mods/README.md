@@ -1,4 +1,4 @@
-# Normativa del servidor
+# Plugins del server
 
 <br/>
 
