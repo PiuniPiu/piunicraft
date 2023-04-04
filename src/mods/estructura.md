@@ -2,19 +2,19 @@
 
 <br/>
 
-## Descripción del plugin
+## Descripción
 ---
 
-> Este plugin hará que tengas una papelera siempre a mano.
+> Este plugin hará que
 
 <br/>
 
-## Comandos que puede usar el jugador
+## Comandos 
 ---
 
 <br/>
 
-### Como abrir la papelera
+### Como 
 ~~~
-/trash
+/
 ~~~
