@@ -20,6 +20,10 @@
 [Documentación pinchando aquí](./graves.md)
 :::
 
+::: tip TPA
+[Documentación pinchando aquí](./tpa.md)
+:::
+
 <br/>
 
 ::: tip ¿Has terminado ya?
