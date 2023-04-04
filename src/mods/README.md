@@ -12,6 +12,14 @@
 [Documentación pinchando aquí](./aureliumskills.md)
 :::
 
+::: tip BlockProt
+[Documentación pinchando aquí](./blockprot.md)
+:::
+
+::: tip Graves
+[Documentación pinchando aquí](./graves.md)
+:::
+
 <br/>
 
 ::: tip ¿Has terminado ya?
