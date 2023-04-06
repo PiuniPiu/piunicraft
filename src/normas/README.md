@@ -7,6 +7,8 @@ Está totalmente prohibido robar, matar o usar TNT (sin previa autorización del
 :::
 ::: danger 2.
 El uso de XRay, Clientes Modeados (Wurst o cosas como Badlion y etc, clientes que te dan ventajas sobre otras personas) están TOTALMENTE PROHIBIDOS y puedes ser kickeado o baneado.
+
+ÚNICAMENTE OPTIFINE ESTÁ PERMITIDO.
 :::
 ::: danger 3.
 El uso de herramientas externas para obtener información no administrada al usuario por mi (AlexDevUwU) está PROHIBIDO
