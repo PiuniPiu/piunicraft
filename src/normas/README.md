@@ -71,5 +71,6 @@ Este server es para pasarlo bien, disfrutad, ayudaos entre vosotros si es necesa
 
 ::: tip ¿Has terminado ya?
 [Vuelve al inicio!](/)
+
 [Vé a informarte sobre los mods!](../mods/)
 :::
