@@ -43,6 +43,7 @@ No hacer granjas de lag (habrá revisiones).
 :::
 ::: danger 12.
 Lee la documentación antes de nada.
+::: 
 
 > Normas relativas a la comunidad
 
