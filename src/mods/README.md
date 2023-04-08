@@ -24,6 +24,18 @@
 [Documentación pinchando aquí](./tpa.md)
 :::
 
+::: tip Chest Sort
+[Documentación pinchando aquí](./chestsort.md)
+:::
+
+::: tip Chairs
+[Documentación pinchando aquí](./chairs.md)
+:::
+
+::: tip Ascensores
+[Documentación pinchando aquí](./elevator.md)
+:::
+
 <br/>
 
 ::: tip ¿Has terminado ya?
