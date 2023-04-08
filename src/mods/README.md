@@ -36,6 +36,14 @@
 [Documentación pinchando aquí](./elevator.md)
 :::
 
+::: tip Autocraft
+[Documentación pinchando aquí](./autocraft.md)
+:::
+
+::: tip Bank
+[Documentación pinchando aquí](./bank.md)
+:::
+
 <br/>
 
 ::: tip ¿Has terminado ya?
