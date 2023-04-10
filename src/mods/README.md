@@ -44,6 +44,10 @@
 [Documentación pinchando aquí](./bank.md)
 :::
 
+::: tip Homes
+[Documentación pinchando aquí](./homes.md)
+:::
+
 <br/>
 
 ::: tip ¿Has terminado ya?
