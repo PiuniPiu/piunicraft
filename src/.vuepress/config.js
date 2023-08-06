@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  title: 'UwULand',
+  title: 'PiuniCraft',
   base: '/',
   description: description,
   head: [
