@@ -6,7 +6,8 @@ export default defineConfig({
   lang: 'es-ES',
   srcDir: './src',
   outDir: './build',
-  assetsDir: './static',
+  assetsDir: 'static',
+  publicDir: 'public',
 
   // Configuración de la web (template)
   titleTemplate: ':title | PiuniCraft',
