@@ -1,25 +1,11 @@
 {
-  "name": "piunicraft",
-  "version": "1.0.0",
-  "description": "Página web de PiuniCraft, el servidor de Minecraft oficial de PiuniPiu",
-  "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PiuniPiu/uwuland-docs.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PiuniPiu/uwuland-docs/issues"
-  },
-  "homepage": "https://github.com/PiuniPiu/uwuland-docs#readme",
   "dependencies": {
-    "vuepress": "^1.9.10",
-    "vuepress-theme-antdocs": "^1.4.6"
-  }
+    "vitepress": "^1.0.0-rc.4"
+  },
+  "type": "module"
 }

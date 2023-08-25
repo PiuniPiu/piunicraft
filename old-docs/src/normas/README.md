@@ -5,14 +5,14 @@
 > Normativa básica
 
 ::: danger 1.
-Está totalmente prohibido robar a la gente.
+Lee la documentación antes de nada. Si no te la lees, no será nuestra culpa, con lo que no te servirá de excusa.
 :::
 ::: danger 2.
 El uso de XRay, Clientes Modeados o el uso de clientes como Forge o Fabric (Wurst o cosas como Badlion y etc, clientes que te dan ventajas sobre otras personas) están TOTALMENTE PROHIBIDOS y puedes ser kickeado o baneado.
 
 ÚNICAMENTE OPTIFINE ESTÁ PERMITIDO.
 
-Si tienes dudas, habla con los mods del server.
+Si tienes dudas, habla con los mods / admins del server.
 :::
 ::: danger 3.
 El uso de herramientas externas para obtener información no administrada al usuario por los administradores está PROHIBIDO.
@@ -24,7 +24,7 @@ El uso MAL intencionado de los comandos o el uso NO AUTORIZADO de ellos será SA
 La difusión de la IP está PROHIBIDA Y ES SANCIONADA.
 :::
 ::: danger 6.
-Los jugadores NO PUEDEN usar multicuenta, solo con autorización.
+Los jugadores NO PUEDEN usar multicuenta, solo con autorización de los mods / admins.
 :::
 ::: danger 7.
 No se permite el uso de bots como Mineflayer.
@@ -33,28 +33,30 @@ No se permite el uso de bots como Mineflayer.
 No se permite duplicar ítems, usar bugs de MC o de Plugins.
 :::
 ::: danger 9.
-No está permitido hacerse pasar por mod, admin o algún cargo que no sea jugador.
+Está totalmente prohibido robar a la gente.
 :::
 ::: danger 10.
 No hacer granjas colosales (También conocido como "No ser ElRichMC" o "No ser ElGranjasMC" Referencia: Oroggeddon/Permutador Metalúrgico).
 :::
 ::: danger 11.
-No hacer granjas de lag (habrá revisiones).
+No hacer granjas de lag (habrá revisiones cada poco tiempo).
 :::
 ::: danger 12.
-Lee la documentación antes de nada.
+No está permitido hacerse pasar por mod, admin o algún cargo que no sea jugador.
 ::: 
 
 > Normas relativas a la comunidad
 
 ::: danger 1.
-Ir por individual (es decir, que cada uno tenga su propio espacio y sus cosas, no pegarse a otros usuarios a menos que el otro usuario acepte que estés con él).
+Jugar de forma individual (es decir, que cada uno tenga su propio espacio y sus cosas, podeis hacer cosas como pueblos o así, incluso casas conjuntas si el otro / los otros jugadores aceptan, pero por defecto, debes de jugar de forma individual, por tu propia cuenta).
 :::
 ::: danger 2.
 No darle ítems o objetos a otras personas a menos que las pidan. Esto se hace para evitar "tener la vida resuelta" y que los usuarios puedan disfrutar del juego por ellos mismos.
 :::
 ::: danger 3.
-No persegir a Piuni ni estar pegada a ella todo el rato. Queda totalmente prohibido regalarle ítems a no ser que los pida ella específicamente.
+No persegir a Piuni ni estar pegada a ella todo el rato. Queda totalmente prohibido regalarle ítems a no ser que los pida ella específicamente. 
+
+Por favor, ten muy en cuenta esta norma (incluso más que el resto), ya que aunque el servidor es para poder jugar con ella y habrá momentos en los que quiera jugar con los demás, también habrá momentos en los que no le apetezca.
 :::
 
 > Normas relacionadas a las pertenecias de cada jugador

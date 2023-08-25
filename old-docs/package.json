@@ -1,0 +1,24 @@
+{
+  "name": "piunicraft-docs",
+  "version": "3.0.0",
+  "description": "La documentación oficial del servidor de Minecraft de Piuni",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiuniVT/piunicraft.git"
+  },
+  "author": "AlexDeveloperUwU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiuniVT/piunicraft/issues"
+  },
+  "homepage": "https://github.com/PiuniVT/piunicraft#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10",
+    "vuepress-theme-antdocs": "^1.4.6"
+  }
+}

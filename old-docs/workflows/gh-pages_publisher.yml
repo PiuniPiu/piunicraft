@@ -1,5 +1,5 @@
 #By AlexDeveloperUwU
-name: Github Pages Publisher for VitePress
+name: Github Pages Publisher for VuePress
 
 on:
   push:
@@ -12,24 +12,24 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [18.16.0]
+        node-version: [16.11.1]
         
     steps:
     - name: Checkout del repositorio
-      uses: actions/checkout@v3.6.0
+      uses: actions/checkout@v3.3.0
     - name: Instalación de Node.js
-      uses: actions/setup-node@v3.8.1
+      uses: actions/setup-node@v3.6.0
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - name: Intalación de paquetes
       run: npm ci
     - name: Generación de los archivos estáticos HTML
-      run: npm run docs:build
+      run: npm run build
     - name: CD al directorio del resultado 
-      run: cd ./docs
+      run: cd ./src/.vuepress/
     - name: Publicación de la página en Github Pages
-      uses: JamesIves/github-pages-deploy-action@v4.4.3
+      uses: JamesIves/github-pages-deploy-action@v4.4.1
       with:
           branch: gh-pages
-          folder: ./docs/build
+          folder: ./src/.vuepress/dist
