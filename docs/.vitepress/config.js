@@ -16,23 +16,17 @@ export default defineConfig({
 
   // Configuración del "Tema"
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+      { text: 'Inicio', link: '/' },
+      { text: 'Normativa', link: '/rules' },
+      { text: 'Plugins', link: '/mods/' }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'twitter', link: 'https://twitter.com/piunicraft' }
     ]
   }
 })
