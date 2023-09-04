@@ -16,15 +16,20 @@ export default defineConfig({
 
   // Configuración del "Tema"
   themeConfig: {
+
+    // Añadimos la búsqueda en la web
     search: {
       provider: 'local'
     },
+
+    // Añadimos el menú de navegación
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Normativa', link: '/rules' },
       { text: 'Plugins', link: '/mods/' }
     ],
 
+    // Añadimos el link de nuestro Twitter
     socialLinks: [
       { icon: 'twitter', link: 'https://twitter.com/piunicraft' }
     ]
