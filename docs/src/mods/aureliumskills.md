@@ -1,7 +1,3 @@
----
-layout: doc
----
-
 # Plugin: Aurelium Skills
 
 <br/>
