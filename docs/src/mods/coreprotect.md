@@ -18,6 +18,4 @@ layout: doc
 
 <br/>
 
-~~~
-Este plugin no tiene comandos disponibles para el jugador normal, pero sí para los administradores, quienes podrán consultar los distintos comandos en [la siguiente página web](https://docs.coreprotect.net/commands/)
-~~~
+> Este plugin no tiene comandos disponibles para el jugador normal, pero sí para los administradores, quienes podrán consultar los distintos comandos en [la siguiente página web](https://docs.coreprotect.net/commands/)

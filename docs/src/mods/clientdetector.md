@@ -18,6 +18,4 @@ layout: doc
 
 <br/>
 
-~~~
-Este plugin no tiene comandos disponibles para el jugador
-~~~
+>Este plugin no tiene comandos disponibles para el jugador normal

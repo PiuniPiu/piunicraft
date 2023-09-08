@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // Configuración base de la web
-  base: '/piunicraft/',
+  base: '/',
   lang: 'es-ES',
   srcDir: './src',
   outDir: './build',
