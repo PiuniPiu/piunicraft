@@ -7,6 +7,7 @@ layout: doc
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin les permitirá a los administradores hacer rollbacks u obtener datos que de normal Minecraft no nos da, como por ejemplo, quién interactuó con x bloque o si una lava es natural o puesta por un usuario.
@@ -14,6 +15,7 @@ layout: doc
 <br/>
 
 ## Comandos
+
 ---
 
 <br/>

@@ -3,6 +3,7 @@
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin te otorgará distintas habilidades que están aquí abajo descritas (traducidas a español por www.DeepL.com)
@@ -75,11 +76,13 @@ Lightning Blade (Fighting) - Aumenta la velocidad de ataque en un _% durante _ s
 <br/>
 
 ## Comandos
+
 ---
 
 <br/>
 
 ### Consultar tus skills (ver el progreso de las mismas)
-~~~
+
+```
 /skills
-~~~
+```

@@ -7,6 +7,7 @@ layout: doc
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin mejora la experiencia de dormir en el servidor, ya que permite saltar la noche si un % de jugadores del server está durmiendo al mismo tiempo.
@@ -14,6 +15,7 @@ layout: doc
 <br/>
 
 ## Comandos
+
 ---
 
 <br/>

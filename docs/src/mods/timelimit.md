@@ -7,6 +7,7 @@ layout: doc
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin limita la cantidad de horas que se pueden jugar en el servidor, ya que así evitamos avances muy rápidos por parte de los jugadores y también evitamos el "vicio" de los mismos.
@@ -14,6 +15,7 @@ layout: doc
 <br/>
 
 ## Comandos
+
 ---
 
 <br/>

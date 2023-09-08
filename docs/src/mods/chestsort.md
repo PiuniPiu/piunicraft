@@ -7,23 +7,27 @@ layout: doc
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin habilitará la opción para organizar automáticamente tus cofres o tu inventario
 
 <br/>
 
-## Comandos 
+## Comandos
+
 ---
 
 <br/>
 
 ### Habilitar / deshabilitar la organización automática de cofres y etc
-~~~
+
+```
 /sort
-~~~
+```
 
 ### Habilitar / deshabilitar la organización automática de inventario
-~~~
+
+```
 /invsort
-~~~
+```

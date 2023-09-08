@@ -7,6 +7,7 @@ layout: doc
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin generará una tumba con los ítems y la experiencia de un jugador cuando este se muera. Además, dropeará un compás para que el jugador pueda localizar su tumba.
@@ -14,6 +15,7 @@ layout: doc
 <br/>
 
 ## Comandos
+
 ---
 
 <br/>

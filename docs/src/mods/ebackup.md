@@ -7,6 +7,7 @@ layout: doc
 <br/>
 
 ## Descripción
+
 ---
 
 > Este plugin generará copìas de seguridad diarias del servidor, así, en caso de necesidad, se podrá realizar un rollback del mismo.
@@ -14,6 +15,7 @@ layout: doc
 <br/>
 
 ## Comandos
+
 ---
 
 <br/>
