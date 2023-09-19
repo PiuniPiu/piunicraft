@@ -53,6 +53,8 @@ Está totalmente prohibido robar a la gente.
 :::
 ::: warning 10.
 No está permitido hacer granjas colosales (También conocido como "No ser ElRichMC" o "No ser ElGranjasMC" Referencia: Oroggeddon/Permutador Metalúrgico).
+
+Tampoco están permitidas las construcciones grandes, son perjudiciales para las personas que tienen ordenadores poco potentes o juegan en Bedrock
 :::
 ::: warning 11.
 No está permitido hacer granjas de lag (habrá revisiones cada poco tiempo).
